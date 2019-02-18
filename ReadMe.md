@@ -9,7 +9,7 @@ It's an application that will help people keep their usernames and passwords of 
 
 ## Technology Used:
 
--
+- Python3.6
 
 ## How to step it:
 
