@@ -1,4 +1,4 @@
-## Project: Password
+## Project: Password Locker
 
 ## by Uwineza Adolatha
 
