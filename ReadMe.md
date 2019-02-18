@@ -1,5 +1,7 @@
 ## Project: Password Locker
 
+## by Uwineza Adolatha
+
 ## Project Description
 
 This is a project which is a terminal run python application. It allows the users to store their details of their accounts.
