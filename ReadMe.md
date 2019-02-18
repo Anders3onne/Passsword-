@@ -4,9 +4,6 @@
 
 ## Project Description
 
-This is a project which is a terminal run python application. It allows the users to store their details of their accounts.
-It's an application that will help people keep their usernames and passwords of their accounts while still being able to create new usernames & password of any account they want.
-
 ## Technology Used:
 
 - Python3.6
