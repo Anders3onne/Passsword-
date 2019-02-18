@@ -14,7 +14,6 @@ It's an application that will help people keep their usernames and passwords of 
 ## How to step it:
 
 - Install Python3.6
-- pip
 
 ## Behavior Driven Development
 
