@@ -1,7 +1,5 @@
 
 
-from user import user
-from credentials import Credentials
 
 
 def login_credentials(xusername, xpassword):
