@@ -35,10 +35,6 @@ There are no known bugs for now.
 
 Email: uwinezaandersonne@gmail.com
 
-## Acknowledgement
-
-- Wecode Rwanda
-
 ## License and Copyright
 
 MIT License. Copyright (c) 2019 Uwineza A.
