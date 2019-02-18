@@ -9,7 +9,7 @@ It's an application that will help people keep their usernames and passwords of 
 
 ## Technology Used:
 
-- Python3.6
+-
 
 ## How to step it:
 
@@ -18,7 +18,14 @@ It's an application that will help people keep their usernames and passwords of 
 
 ## Behavior Driven Development
 
--
+- It allows the user to create an account with their chosen username and password.
+- It allows the user to login their account using the right credentials.
+- It allows the user to store the existing account credentials.
+- It allows the user to create new account credentials.
+- It is able to create passwords for the user.
+- It allows the user to create their own passwords.
+- It allows the user to show account credentials and passwords.
+- It allows the user to delete account credentials.
 
 ## Known Bugs
 
