@@ -11,11 +11,6 @@ It's an application that will help people keep their usernames and passwords of 
 
 - Python3.6
 
-## How to step it:
-
-- Install Python3.6
-- pip
-
 ## Behavior Driven Development
 
 - It allows the user to create an account with their chosen username and password.
