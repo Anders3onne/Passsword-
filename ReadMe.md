@@ -27,10 +27,6 @@ It's an application that will help people keep their usernames and passwords of 
 - It allows the user to show account credentials and passwords.
 - It allows the user to delete account credentials.
 
-## Known Bugs
-
-There are no known bugs for now.
-
 ## Further Info
 
 Email: uwinezaandersonne@gmail.com
