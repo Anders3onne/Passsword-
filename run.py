@@ -1,6 +1,5 @@
-
-
-
+from user import user
+from credentials import Credentials
 
 def login_credentials(xusername, xpassword):
     '''
@@ -174,7 +173,6 @@ def main():
             print("I really didn't get that. Please use the short codes")
 
 
-if __name__ == '__main__':
-    main()
+
 
 
